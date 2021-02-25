@@ -12,13 +12,13 @@ Fitur ini memungkinkan Warga Desa Mitra untuk meminta pembuatan surat ke kantor 
 ## Status Surat
 Pada bagian Tab Layanan akan tampil daftar permintaan surat beserta statusnya yang telah dibuat sebelumnya.
 
-- Terkirim<br>
+- **Terkirim**<br>
     Permintaan surat telah dikirim ke kantor desa dan menunggu ditindak lanjuti oleh staff desa.
-- Proses<br>
+- **Proses**<br>
     Permintaan surat telah diproses oleh staff.
-- Selesai<br>
+- **Selesai**<br>
     Permintaan surat telah selesai dibuat, staff akan menghubungi kapan surat bisa diambil atau bisa lansung diambil di kantor desa.
-- Ditolak<br>
+- **Ditolak**<br>
     Permintaan surat ditolak dibuat, staff desa akan menghubungi untuk alasan penolakannya.
 
 ![surat](../image/list-surat.jpg)
