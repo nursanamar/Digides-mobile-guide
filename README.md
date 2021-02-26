@@ -1,4 +1,4 @@
-# DIGIDES Mobile Guide
+# Panduan Aplikasi mobile Digides
 
 ## Akun
 - [Login](akun/login.md)
